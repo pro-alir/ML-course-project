@@ -1,6 +1,6 @@
 # ML-course-project
 
-This project is part of the **Introduction to Machine Learning** course under Dr. Fatemeh Mirsalehi and TA Amirhossein Razlighi. It consists of two main parts:
+This project is part of the **Machine Learning** course under Dr. Fatemeh Mirsalehi. It consists of two main parts:
 
 1. **CNN from Scratch:**  
    In this section, I implemented a Convolutional Neural Network (CNN) from scratch to gain a deeper understanding of how convolutional layers work. I manually coded the forward and backward pass, including the calculation of gradients. Additionally, I applied different convolutional kernels like Sobel, Grayscale, and Gaussian Blur to visualize their effects on sample images.
